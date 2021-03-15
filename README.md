@@ -1,6 +1,6 @@
 # SmallBrainsMiniGame
  
-## This is our first minigame
+## Description
 
 There is no much to add. Feel free to make a pull request to improve the game
 
