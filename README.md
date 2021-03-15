@@ -6,14 +6,13 @@ There is no much to add. Feel free to make a pull request to improve the game
 
 ## Key Features
 
- - {Feature01}
- - {Feature02}
- - {Feature03}
- - {Feature04}
+- Ship control
+- Missile shooting
  
 ## Controls
 
- - {ControlsScheme}
+ - Arrow Key: Ship  control
+ - Space bar: Missile
 
 ## Developers
 
@@ -26,4 +25,4 @@ There is no much to add. Feel free to make a pull request to improve the game
 
 This project is licensed under an unmodified MIT license, which is an OSI-certified license that allows static linking with closed source software. Check [LICENSE](LICENSE) for further details.
 
-{AdditionalLicenses}
+
